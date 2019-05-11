@@ -7,4 +7,4 @@ Single Layer Perceptron implementation (from scratch / no ML library) for classi
 input: K -> 1,2,3,4,5 (5 Folds)
 Learning Rate: any step-size / learning rate
 
-
+external link: https://medium.com/@vincentmichael089/machine-learning-1-single-layer-perceptron-9d94c62f1970
